@@ -1,3 +1,3 @@
 # TodoMVC
 
-<a href="dohaivu.github.io/todomvc/angularjs/app/index.html">AngularJS</a>
+<a href="http://dohaivu.github.io/todomvc/angularjs/app/index.html">AngularJS</a>
